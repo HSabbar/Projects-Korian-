@@ -1,0 +1,1197 @@
+1583759171318	geckodriver	INFO	geckodriver 0.21.0
+1583759171331	geckodriver	INFO	Listening on 127.0.0.1:60215
+1583759172316	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4h/51s1_bdj0fb38tn9hf2p9xcr0000gn/T/rust_mozprofile.i38OwEF06RXY"
+1583759173361	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583759173510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583759173510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583759173511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583759173511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583759173616	Marionette	TRACE	Received observer notification profile-after-change
+1583759173721	Marionette	TRACE	Received observer notification command-line-startup
+1583759173721	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1583759173918	Marionette	TRACE	Received observer notification toplevel-window-ready
+1583759176085	Marionette	TRACE	Received observer notification marionette-startup-requested
+1583759176085	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1583759176097	Marionette	TRACE	All scripts recorded.
+1583759176097	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1583759176097	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1583759176097	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1583759176097	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1583759176098	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1583759176099	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1583759176099	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1583759176099	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1583759176099	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1583759176100	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1583759176100	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1583759176100	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1583759176100	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1583759176100	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1583759176101	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1583759176101	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1583759176101	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1583759176101	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1583759176101	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1583759176102	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1583759176102	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1583759176103	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1583759176103	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1583759176103	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1583759176103	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1583759176103	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1583759176103	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1583759176104	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1583759176104	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1583759176104	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1583759176104	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1583759176105	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1583759176157	Marionette	INFO	Listening on port 60230
+1583759176157	Marionette	DEBUG	Marionette is listening
+1583759176229	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:60298
+1583759176230	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1583759176230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583759176257	Marionette	TRACE	[17] Frame script loaded
+1583759176258	Marionette	TRACE	[17] Frame script registered
+1583759176263	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"4ce184fd-4110-9e47-b050-7e0cf6d07a1f","capabilities":{"browserName":"firefox","browserVersion":"72.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1583759196019	geckodriver	INFO	geckodriver 0.21.0
+1583759196028	geckodriver	INFO	Listening on 127.0.0.1:60380
+1583759197031	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4h/51s1_bdj0fb38tn9hf2p9xcr0000gn/T/rust_mozprofile.pUqKzQ3QJWrG"
+1583759197771	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583759197888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583759197888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583759197888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583759197888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583759197990	Marionette	TRACE	Received observer notification profile-after-change
+1583759198075	Marionette	TRACE	Received observer notification command-line-startup
+1583759198075	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1583759198146	Marionette	TRACE	Received observer notification toplevel-window-ready
+1583759200882	Marionette	TRACE	Received observer notification marionette-startup-requested
+1583759200882	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1583759200890	Marionette	TRACE	All scripts recorded.
+1583759200890	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1583759200890	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1583759200890	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1583759200891	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1583759200891	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1583759200892	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1583759200893	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1583759200893	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1583759200893	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1583759200893	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1583759200893	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1583759200893	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1583759200894	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1583759200894	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1583759200895	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1583759200895	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1583759200895	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1583759200896	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1583759200896	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1583759200896	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1583759200897	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1583759200897	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1583759200898	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1583759200898	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1583759200898	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1583759200898	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1583759200898	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1583759200898	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1583759200899	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1583759200899	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1583759200899	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1583759200900	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1583759200965	Marionette	INFO	Listening on port 60395
+1583759200965	Marionette	DEBUG	Marionette is listening
+1583759201022	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:60461
+1583759201030	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1583759201031	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583759201063	Marionette	TRACE	[17] Frame script loaded
+1583759201073	Marionette	TRACE	[17] Frame script registered
+1583759201079	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"d0618195-2552-d14a-9b6b-3fcb5458b69e","capabilities":{"browserName":"firefox","browserVersion":"72.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1583759201089	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://www.maison-retraite-selection.fr/maison-de-retraite/ehpad/4738-le-cercle-des-aines-de-saint-germain.html&pc=1"}]
+1583759201096	Marionette	TRACE	[17] Received DOM event beforeunload for about:blank
+1583759201920	Marionette	TRACE	[17] Received DOM event pagehide for about:blank
+1583759206542	Marionette	DEBUG	Closed connection 0
+1583759206721	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1583759206721	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1583759206721	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1583759206721	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1583759206721	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1583759206721	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1583759206722	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1583759206722	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1583759206722	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1583759206722	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1583759206722	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1583759206722	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1583759206722	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1583759206723	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1583759206723	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1583759206723	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1583759206723	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1583759206724	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1583759206724	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1583759206724	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1583759206724	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1583759206725	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1583759206726	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1583759206726	Marionette	DEBUG	Resetting recommended pref extensions.webservice.discoverURL
+1583759206727	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1583759206727	Marionette	DEBUG	Resetting recommended pref network.http.speculative-parallel-limit
+1583759206727	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1583759206727	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1583759206728	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1583759206728	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1583759206729	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1583759206729	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1583759206729	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1583759206730	Marionette	INFO	Stopped listening on port 60230
+1583759206730	Marionette	DEBUG	Marionette stopped listening
+JavaScript error: https://www.maison-retraite-selection.fr/dist/js/vendors~block-0~block-10~block-12~block-18~block-6.09bb63c6.js, line 1: TypeError: s is undefined
+JavaScript error: https://www.maison-retraite-selection.fr/src/js/main.js, line 11054: TypeError: this.$content is null
+JavaScript error: https://www.maison-retraite-selection.fr/dist/js/vendors~block-0~block-10~block-12~block-18~block-6.09bb63c6.js, line 1: TypeError: s is undefined
+JavaScript warning: https://www.maison-retraite-selection.fr/src/script/vendor.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1583759207772	Marionette	TRACE	[17] Received DOM event DOMContentLoaded for https://www.maison-retraite-selection.fr/maison-de-retraite/ehpad/4738-le-cercle-des-aines-de-saint-germain.html&pc=1
+JavaScript error: https://www.maison-retraite-selection.fr/src/js/mdrs.js, line 83: TypeError: $(...).jScrollPane is not a function
+1583759211395	Marionette	TRACE	[17] Received DOM event pageshow for https://www.maison-retraite-selection.fr/maison-de-retraite/ehpad/4738-le-cercle-des-aines-de-saint-germain.html&pc=1
+1583759211397	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1583759211406	Marionette	DEBUG	0 -> [0,3,"WebDriver:FindElements",{"using":"xpath","value":"//ul[@class='Features__items js-carousel flickity-enabled is-draggable is-ready']/li"}]
+1583759211413	Marionette	DEBUG	0 <- [1,3,null,[]]
+1583759220107	Marionette	DEBUG	Closed connection 0
+1583759220269	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1583759220269	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1583759220270	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1583759220270	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1583759220270	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1583759220270	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1583759220270	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1583759220270	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1583759220271	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1583759220271	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1583759220271	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1583759220271	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1583759220271	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1583759220271	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1583759220271	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1583759220271	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1583759220271	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1583759220271	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1583759220271	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1583759220271	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1583759220271	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1583759220272	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1583759220272	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1583759220272	Marionette	DEBUG	Resetting recommended pref extensions.webservice.discoverURL
+1583759220272	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1583759220272	Marionette	DEBUG	Resetting recommended pref network.http.speculative-parallel-limit
+1583759220272	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1583759220272	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1583759220272	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1583759220272	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1583759220272	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1583759220272	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1583759220272	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1583759220273	Marionette	INFO	Stopped listening on port 60395
+1583759220273	Marionette	DEBUG	Marionette stopped listening
+1583759414691	geckodriver	INFO	geckodriver 0.21.0
+1583759414697	geckodriver	INFO	Listening on 127.0.0.1:61358
+1583759415697	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4h/51s1_bdj0fb38tn9hf2p9xcr0000gn/T/rust_mozprofile.h6bWgtHX5HxN"
+1583759416304	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583759416408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583759416408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583759416408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583759416408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583759416505	Marionette	TRACE	Received observer notification profile-after-change
+1583759416587	Marionette	TRACE	Received observer notification command-line-startup
+1583759416587	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1583759416739	Marionette	TRACE	Received observer notification toplevel-window-ready
+1583759418428	Marionette	TRACE	Received observer notification marionette-startup-requested
+1583759418428	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1583759418439	Marionette	TRACE	All scripts recorded.
+1583759418439	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1583759418439	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1583759418439	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1583759418439	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1583759418440	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1583759418441	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1583759418441	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1583759418441	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1583759418442	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1583759418442	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1583759418442	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1583759418442	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1583759418442	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1583759418442	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1583759418443	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1583759418444	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1583759418444	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1583759418444	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1583759418444	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1583759418444	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1583759418445	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1583759418445	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1583759418445	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1583759418446	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1583759418446	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1583759418446	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1583759418446	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1583759418446	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1583759418446	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1583759418446	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1583759418446	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1583759418447	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1583759418489	Marionette	INFO	Listening on port 61373
+1583759418490	Marionette	DEBUG	Marionette is listening
+1583759418582	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:61424
+1583759418584	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1583759418585	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583759418612	Marionette	TRACE	[17] Frame script loaded
+1583759418613	Marionette	TRACE	[17] Frame script registered
+1583759418620	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"90426462-7652-a04d-8bcf-9996b51e9bdd","capabilities":{"browserName":"firefox","browserVersion":"72.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1583759418628	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://www.maison-retraite-selection.fr/maison-de-retraite/ehpad/4738-le-cercle-des-aines-de-saint-germain.html&pc=1"}]
+1583759418634	Marionette	TRACE	[17] Received DOM event beforeunload for about:blank
+1583759419341	Marionette	TRACE	Received DOM event unload for [object HTMLDocument]
+1583759419345	Marionette	TRACE	Received observer notification message-manager-disconnect
+1583759419345	Marionette	TRACE	[17] Received DOM event pagehide for about:blank
+1583759419346	Marionette	TRACE	[17] Received DOM event unload for about:blank
+1583759419346	Marionette	TRACE	[17] Received observer notification outer-window-destroyed
+1583759419349	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1583759419382	Marionette	DEBUG	Closed connection 0
+1583759419485	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1583759419485	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1583759419485	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1583759419485	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1583759419485	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1583759419485	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1583759419485	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1583759419486	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1583759419486	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1583759419486	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1583759419486	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1583759419486	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1583759419486	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1583759419486	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1583759419486	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1583759419486	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1583759419486	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1583759419486	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1583759419486	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1583759419486	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1583759419486	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1583759419487	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1583759419487	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1583759419487	Marionette	DEBUG	Resetting recommended pref extensions.webservice.discoverURL
+1583759419487	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1583759419487	Marionette	DEBUG	Resetting recommended pref network.http.speculative-parallel-limit
+1583759419487	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1583759419487	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1583759419487	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1583759419487	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1583759419487	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1583759419487	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1583759419487	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1583759419487	Marionette	INFO	Stopped listening on port 61373
+1583759419487	Marionette	DEBUG	Marionette stopped listening
+1583759447618	geckodriver	INFO	geckodriver 0.21.0
+1583759447629	geckodriver	INFO	Listening on 127.0.0.1:61547
+1583759448626	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4h/51s1_bdj0fb38tn9hf2p9xcr0000gn/T/rust_mozprofile.ZTppgxrh3480"
+1583759449133	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583759449252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583759449252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583759449252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583759449255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583759449351	Marionette	TRACE	Received observer notification profile-after-change
+1583759449431	Marionette	TRACE	Received observer notification command-line-startup
+1583759449432	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1583759449573	Marionette	TRACE	Received observer notification toplevel-window-ready
+1583759451244	Marionette	TRACE	Received observer notification marionette-startup-requested
+1583759451245	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1583759451255	Marionette	TRACE	All scripts recorded.
+1583759451255	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1583759451255	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1583759451256	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1583759451256	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1583759451256	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1583759451257	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1583759451257	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1583759451257	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1583759451257	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1583759451257	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1583759451257	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1583759451258	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1583759451258	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1583759451258	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1583759451259	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1583759451259	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1583759451259	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1583759451259	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1583759451259	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1583759451259	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1583759451260	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1583759451260	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1583759451260	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1583759451261	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1583759451261	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1583759451261	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1583759451261	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1583759451261	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1583759451261	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1583759451261	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1583759451261	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1583759451261	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1583759451305	Marionette	INFO	Listening on port 61562
+1583759451305	Marionette	DEBUG	Marionette is listening
+1583759451382	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:61612
+1583759451383	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1583759451383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583759451417	Marionette	TRACE	[17] Frame script loaded
+1583759451420	Marionette	TRACE	[17] Frame script registered
+1583759451430	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"2d3c3037-bc19-c045-ab54-9cc150bb1e8c","capabilities":{"browserName":"firefox","browserVersion":"72.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1583759451441	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://www.maison-retraite-selection.fr/maison-de-retraite/ehpad/4738-le-cercle-des-aines-de-saint-germain.html&pc=1"}]
+1583759451454	Marionette	TRACE	[17] Received DOM event beforeunload for about:blank
+1583759452086	Marionette	TRACE	[17] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.maison-retraite-selection.fr/src/script/vendor.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1583759456528	Marionette	TRACE	[17] Received DOM event DOMContentLoaded for https://www.maison-retraite-selection.fr/maison-de-retraite/ehpad/4738-le-cercle-des-aines-de-saint-germain.html&pc=1
+JavaScript error: https://www.maison-retraite-selection.fr/src/js/mdrs.js, line 83: TypeError: $(...).jScrollPane is not a function
+JavaScript error: https://www.maison-retraite-selection.fr/dist/js/vendors~block-0~block-10~block-12~block-18~block-6.09bb63c6.js, line 1: TypeError: s is undefined
+JavaScript error: https://www.maison-retraite-selection.fr/src/js/main.js, line 11054: TypeError: this.$content is null
+JavaScript error: https://www.maison-retraite-selection.fr/dist/js/vendors~block-0~block-10~block-12~block-18~block-6.09bb63c6.js, line 1: TypeError: s is undefined
+1583759461843	Marionette	TRACE	[17] Received DOM event pageshow for https://www.maison-retraite-selection.fr/maison-de-retraite/ehpad/4738-le-cercle-des-aines-de-saint-germain.html&pc=1
+1583759461845	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1583759461851	Marionette	DEBUG	0 -> [0,3,"WebDriver:FindElements",{"using":"css selector","value":"li"}]
+1583759461913	Marionette	DEBUG	0 <- [1,3,null,[{"element-6066-11e4-a52e-4f735466cecf":"56d4d19a-889c-624b-a70c-ad45e9036f8e"},{"element-6066-11e4-a52e-4f735466ce ... ecf":"0d8144ba-18a7-1545-8927-f55618ebef93"},{"element-6066-11e4-a52e-4f735466cecf":"e54d51ae-1eb9-ed47-976e-ff001ef9b13d"}]]
+1583759461919	Marionette	DEBUG	0 -> [0,4,"WebDriver:GetElementText",{"id":"56d4d19a-889c-624b-a70c-ad45e9036f8e"}]
+1583759461941	Marionette	DEBUG	0 <- [1,4,null,{"value":""}]
+1583759461944	Marionette	DEBUG	0 -> [0,5,"WebDriver:GetElementText",{"id":"024d81bb-a327-b94c-a2a4-67841b2ed349"}]
+1583759461954	Marionette	DEBUG	0 <- [1,5,null,{"value":""}]
+1583759461957	Marionette	DEBUG	0 -> [0,6,"WebDriver:GetElementText",{"id":"d2ce8ad2-4d33-ef49-920b-5f07b472a247"}]
+1583759461964	Marionette	DEBUG	0 <- [1,6,null,{"value":""}]
+1583759461966	Marionette	DEBUG	0 -> [0,7,"WebDriver:GetElementText",{"id":"78112fd7-b2b4-7c4b-b179-2dbfd5e8d6e2"}]
+1583759461972	Marionette	DEBUG	0 <- [1,7,null,{"value":"TROUVEZ UNE PLACE"}]
+1583759461975	Marionette	DEBUG	0 -> [0,8,"WebDriver:GetElementText",{"id":"46d5c1d4-fcb1-084b-85d9-16cb4600ac27"}]
+1583759461981	Marionette	DEBUG	0 <- [1,8,null,{"value":"FINANCER"}]
+1583759462008	Marionette	DEBUG	0 -> [0,9,"WebDriver:GetElementText",{"id":"3c6ebbc7-b414-8645-9e32-4a24ddab6b15"}]
+1583759462015	Marionette	DEBUG	0 <- [1,9,null,{"value":"SERVICES À DOMICILE"}]
+1583759462018	Marionette	DEBUG	0 -> [0,10,"WebDriver:GetElementText",{"id":"851d693a-eff8-c44d-8059-2f7392c6e0aa"}]
+1583759462024	Marionette	DEBUG	0 <- [1,10,null,{"value":"RÉSIDENCES SERVICES"}]
+1583759462027	Marionette	DEBUG	0 -> [0,11,"WebDriver:GetElementText",{"id":"22da35a6-011a-4043-85cf-abfc5e907414"}]
+1583759462032	Marionette	DEBUG	0 <- [1,11,null,{"value":"PALMARÈS"}]
+1583759462035	Marionette	DEBUG	0 -> [0,12,"WebDriver:GetElementText",{"id":"a5fab294-17aa-7544-995a-cb14b3b73086"}]
+1583759462048	Marionette	DEBUG	0 <- [1,12,null,{"value":""}]
+1583759462057	Marionette	DEBUG	0 -> [0,13,"WebDriver:GetElementText",{"id":"a0b5a9d0-04ca-6349-b0ee-e86e9ce2135b"}]
+1583759462065	Marionette	DEBUG	0 <- [1,13,null,{"value":""}]
+1583759462068	Marionette	DEBUG	0 -> [0,14,"WebDriver:GetElementText",{"id":"2a0812c0-c6f9-434e-be8c-8425306dc5c2"}]
+1583759462075	Marionette	DEBUG	0 <- [1,14,null,{"value":""}]
+1583759462078	Marionette	DEBUG	0 -> [0,15,"WebDriver:GetElementText",{"id":"450a5708-89d3-8c40-a6df-ea52d645fe91"}]
+1583759462085	Marionette	DEBUG	0 <- [1,15,null,{"value":""}]
+1583759462087	Marionette	DEBUG	0 -> [0,16,"WebDriver:GetElementText",{"id":"2f73fe40-d5a0-1242-ab7b-e91d263f6231"}]
+1583759462098	Marionette	DEBUG	0 <- [1,16,null,{"value":""}]
+1583759462101	Marionette	DEBUG	0 -> [0,17,"WebDriver:GetElementText",{"id":"04d6d01f-d94f-1a4c-8b7f-45f92948d2f0"}]
+1583759462106	Marionette	DEBUG	0 <- [1,17,null,{"value":""}]
+1583759462109	Marionette	DEBUG	0 -> [0,18,"WebDriver:GetElementText",{"id":"91eebbbb-c265-154e-b0ac-af47e7588124"}]
+1583759462113	Marionette	DEBUG	0 <- [1,18,null,{"value":""}]
+1583759462116	Marionette	DEBUG	0 -> [0,19,"WebDriver:GetElementText",{"id":"2d3d8897-9849-f242-822c-bdc281beda2d"}]
+1583759462120	Marionette	DEBUG	0 <- [1,19,null,{"value":""}]
+1583759462123	Marionette	DEBUG	0 -> [0,20,"WebDriver:GetElementText",{"id":"954d4e82-33ec-a94a-96de-b04f894b5719"}]
+1583759462127	Marionette	DEBUG	0 <- [1,20,null,{"value":""}]
+1583759462130	Marionette	DEBUG	0 -> [0,21,"WebDriver:GetElementText",{"id":"44cf6406-24a2-1e4e-88f8-b47da06c133f"}]
+1583759462134	Marionette	DEBUG	0 <- [1,21,null,{"value":""}]
+1583759462137	Marionette	DEBUG	0 -> [0,22,"WebDriver:GetElementText",{"id":"5b4a7c79-04d2-2840-95d0-90ed2d2a2ac9"}]
+1583759462141	Marionette	DEBUG	0 <- [1,22,null,{"value":""}]
+1583759462144	Marionette	DEBUG	0 -> [0,23,"WebDriver:GetElementText",{"id":"b414a6ef-b239-f74d-9d4a-a0ff4089518d"}]
+1583759462149	Marionette	DEBUG	0 <- [1,23,null,{"value":""}]
+1583759462152	Marionette	DEBUG	0 -> [0,24,"WebDriver:GetElementText",{"id":"a232cd15-4eb2-5441-8114-0a229840dc4d"}]
+1583759462158	Marionette	DEBUG	0 <- [1,24,null,{"value":""}]
+1583759462161	Marionette	DEBUG	0 -> [0,25,"WebDriver:GetElementText",{"id":"d09c2068-1c86-1b41-bf5a-698bf0ed759f"}]
+1583759462165	Marionette	DEBUG	0 <- [1,25,null,{"value":""}]
+1583759462169	Marionette	DEBUG	0 -> [0,26,"WebDriver:GetElementText",{"id":"4a8d708f-424f-3d46-be46-845a3e25ad14"}]
+1583759462173	Marionette	DEBUG	0 <- [1,26,null,{"value":""}]
+1583759462176	Marionette	DEBUG	0 -> [0,27,"WebDriver:GetElementText",{"id":"5264e4e8-6a39-e546-a119-342d851630b6"}]
+1583759462183	Marionette	DEBUG	0 <- [1,27,null,{"value":""}]
+1583759462187	Marionette	DEBUG	0 -> [0,28,"WebDriver:GetElementText",{"id":"87c56114-e1d0-084f-860e-b561f96b3200"}]
+1583759462195	Marionette	DEBUG	0 <- [1,28,null,{"value":""}]
+1583759462199	Marionette	DEBUG	0 -> [0,29,"WebDriver:GetElementText",{"id":"65c8b1dc-f97b-8249-89a1-a7b3293e597b"}]
+1583759462204	Marionette	DEBUG	0 <- [1,29,null,{"value":""}]
+1583759462207	Marionette	DEBUG	0 -> [0,30,"WebDriver:GetElementText",{"id":"68e86ca7-9799-8c4c-8097-4b14d4a0ff30"}]
+1583759462214	Marionette	DEBUG	0 <- [1,30,null,{"value":""}]
+1583759462217	Marionette	DEBUG	0 -> [0,31,"WebDriver:GetElementText",{"id":"0a78c50b-f172-7740-89ec-dfa409b1af85"}]
+1583759462221	Marionette	DEBUG	0 <- [1,31,null,{"value":""}]
+1583759462224	Marionette	DEBUG	0 -> [0,32,"WebDriver:GetElementText",{"id":"ad28a8d9-e85b-dc47-806e-37e6b9698f65"}]
+1583759462229	Marionette	DEBUG	0 <- [1,32,null,{"value":""}]
+1583759462232	Marionette	DEBUG	0 -> [0,33,"WebDriver:GetElementText",{"id":"d72fc6cc-f9bf-6c44-ba4b-3c1eb8605df3"}]
+1583759462238	Marionette	DEBUG	0 <- [1,33,null,{"value":""}]
+1583759462241	Marionette	DEBUG	0 -> [0,34,"WebDriver:GetElementText",{"id":"7fdf4227-b73c-0d44-83cb-39d264f6b14b"}]
+1583759462246	Marionette	DEBUG	0 <- [1,34,null,{"value":""}]
+1583759462250	Marionette	DEBUG	0 -> [0,35,"WebDriver:GetElementText",{"id":"8485e1f3-04e6-714f-8a12-4d9952520afe"}]
+1583759462254	Marionette	DEBUG	0 <- [1,35,null,{"value":""}]
+1583759462256	Marionette	DEBUG	0 -> [0,36,"WebDriver:GetElementText",{"id":"a902f2e0-e268-1e4d-b6e5-00150f80e57c"}]
+1583759462260	Marionette	DEBUG	0 <- [1,36,null,{"value":""}]
+1583759462263	Marionette	DEBUG	0 -> [0,37,"WebDriver:GetElementText",{"id":"a7748d24-8b55-0b4a-9116-61abb2ee9904"}]
+1583759462267	Marionette	DEBUG	0 <- [1,37,null,{"value":""}]
+1583759462269	Marionette	DEBUG	0 -> [0,38,"WebDriver:GetElementText",{"id":"1c44ecbc-313a-bb41-bf05-cb112a9ace1e"}]
+1583759462273	Marionette	DEBUG	0 <- [1,38,null,{"value":""}]
+1583759462276	Marionette	DEBUG	0 -> [0,39,"WebDriver:GetElementText",{"id":"61b426e5-f4d1-f347-b5b2-e253dd93dcf0"}]
+1583759462279	Marionette	DEBUG	0 <- [1,39,null,{"value":"Cadre et prestations."}]
+1583759462282	Marionette	DEBUG	0 -> [0,40,"WebDriver:GetElementText",{"id":"3ecf7621-32b5-bc4b-99ec-2fa2ac04bcf9"}]
+1583759462286	Marionette	DEBUG	0 <- [1,40,null,{"value":"Aucun."}]
+1583759462289	Marionette	DEBUG	0 -> [0,41,"WebDriver:GetElementText",{"id":"036f680d-8c95-284e-b1fb-023481659bd1"}]
+1583759462301	Marionette	DEBUG	0 <- [1,41,null,{"value":""}]
+1583759462304	Marionette	DEBUG	0 -> [0,42,"WebDriver:GetElementText",{"id":"5d3fc1fe-1c39-ac49-bb3a-4858dd69568a"}]
+1583759462324	Marionette	DEBUG	0 <- [1,42,null,{"value":"Hébergement permanent\nHébergement permanent, comme son nom l’indique, vous signez pour une durée indéterminée.\n\nLire la suite"}]
+1583759462326	Marionette	DEBUG	0 -> [0,43,"WebDriver:GetElementText",{"id":"dd68e269-09cd-454d-aeff-a581a0474447"}]
+1583759462348	Marionette	DEBUG	0 <- [1,43,null,{"value":"Accueil temporaire\nAprès une hospitalisation, ou parce que vos proches sont partis en vacances...\n\n\n\n\n\n\nLire la suite"}]
+1583759462350	Marionette	DEBUG	0 -> [0,44,"WebDriver:GetElementText",{"id":"51a022e9-ab1a-1b43-a833-58f75719a490"}]
+1583759462373	Marionette	DEBUG	0 <- [1,44,null,{"value":"Unité Alzheimer\nL’unité Alzheimer au sein d’un EHPAD est généralement limitée à 10 à 20 résidents.\n\n\n\n\n\nLire la suite"}]
+1583759462376	Marionette	DEBUG	0 -> [0,45,"WebDriver:GetElementText",{"id":"ffdbac19-6b2d-5645-8c4e-9f0febf92c44"}]
+1583759462382	Marionette	DEBUG	0 <- [1,45,null,{"value":"Salle de gymnastique"}]
+1583759462385	Marionette	DEBUG	0 -> [0,46,"WebDriver:GetElementText",{"id":"02cbbde4-a920-c549-925a-db8b9a1236ae"}]
+1583759462390	Marionette	DEBUG	0 <- [1,46,null,{"value":"Salle de Kiné et ergothérapie"}]
+1583759462395	Marionette	DEBUG	0 -> [0,47,"WebDriver:GetElementText",{"id":"291e7250-bf18-f247-b424-1af58a0822bd"}]
+1583759462399	Marionette	DEBUG	0 <- [1,47,null,{"value":"Espace snoezelen (multisensoriel)"}]
+1583759462404	Marionette	DEBUG	0 -> [0,48,"WebDriver:GetElementText",{"id":"20d4d8ce-d78a-0c47-b6d9-aad3a03e403f"}]
+1583759462409	Marionette	DEBUG	0 <- [1,48,null,{"value":"Balnéothérapie"}]
+1583759462413	Marionette	DEBUG	0 -> [0,49,"WebDriver:GetElementText",{"id":"4e20026f-2655-ab43-b196-8c78d9fb8809"}]
+1583759462417	Marionette	DEBUG	0 <- [1,49,null,{"value":"Espace multimédia"}]
+1583759462419	Marionette	DEBUG	0 -> [0,50,"WebDriver:GetElementText",{"id":"471d96d1-5c6a-4849-aac3-e916d9ec8ca7"}]
+1583759462423	Marionette	DEBUG	0 <- [1,50,null,{"value":"Restaurant"}]
+1583759462425	Marionette	DEBUG	0 -> [0,51,"WebDriver:GetElementText",{"id":"89b25a64-7db9-3f4a-b6f3-385122e452f4"}]
+1583759462429	Marionette	DEBUG	0 <- [1,51,null,{"value":"Salle de restaurant pour les familles"}]
+1583759462431	Marionette	DEBUG	0 -> [0,52,"WebDriver:GetElementText",{"id":"f8caa49b-992c-2844-8cb6-fde6010b97da"}]
+1583759462435	Marionette	DEBUG	0 <- [1,52,null,{"value":"Salle de réception"}]
+1583759462437	Marionette	DEBUG	0 -> [0,53,"WebDriver:GetElementText",{"id":"63ad0b0e-b448-a140-a9de-f2f0afec8751"}]
+1583759462440	Marionette	DEBUG	0 <- [1,53,null,{"value":"Salon de coiffure et d'esthétique"}]
+1583759462443	Marionette	DEBUG	0 -> [0,54,"WebDriver:GetElementText",{"id":"40286a93-3f4f-eb45-83ca-20028c02c764"}]
+1583759462447	Marionette	DEBUG	0 <- [1,54,null,{"value":"Bibliothèque"}]
+1583759462449	Marionette	DEBUG	0 -> [0,55,"WebDriver:GetElementText",{"id":"ebf091bf-61fb-9046-9513-d983b87094ac"}]
+1583759462453	Marionette	DEBUG	0 <- [1,55,null,{"value":"Terrasse extérieure"}]
+1583759462455	Marionette	DEBUG	0 -> [0,56,"WebDriver:GetElementText",{"id":"09ddd95e-fafd-f44b-b34d-e75e91138087"}]
+1583759462459	Marionette	DEBUG	0 <- [1,56,null,{"value":"Bar"}]
+1583759462461	Marionette	DEBUG	0 -> [0,57,"WebDriver:GetElementText",{"id":"b71e1ba5-5290-074e-bdc6-cb7bcdb0bd0c"}]
+1583759462530	Marionette	DEBUG	0 <- [1,57,null,{"value":"Situation\n+\n−"}]
+1583759462533	Marionette	DEBUG	0 -> [0,58,"WebDriver:GetElementText",{"id":"8b99fcbe-b0ae-8d4f-a9cc-e850749fbab1"}]
+1583759462562	Marionette	DEBUG	0 <- [1,58,null,{"value":"Vie sociale\nAccueil :Bon accueil\nAnimations régulières\nExcursions fréquentes\nMinibus\nAssociation de bénévoles\nOffices religieux / jours\nAccès résidence sécurisé"}]
+1583759462565	Marionette	DEBUG	0 -> [0,59,"WebDriver:GetElementText",{"id":"7a0e219f-6d43-4d43-80e9-4cf4f349f91a"}]
+1583759462570	Marionette	DEBUG	0 <- [1,59,null,{"value":"Animations régulières"}]
+1583759462573	Marionette	DEBUG	0 -> [0,60,"WebDriver:GetElementText",{"id":"d1b2ae41-f720-8542-9040-f2e975e80c7d"}]
+1583759462577	Marionette	DEBUG	0 <- [1,60,null,{"value":"Excursions fréquentes"}]
+1583759462581	Marionette	DEBUG	0 -> [0,61,"WebDriver:GetElementText",{"id":"0f81d4fb-4b8c-5c4a-b9c4-574dd61a9c06"}]
+1583759462586	Marionette	DEBUG	0 <- [1,61,null,{"value":"Minibus"}]
+1583759462589	Marionette	DEBUG	0 -> [0,62,"WebDriver:GetElementText",{"id":"ec4bdb82-e5ea-c54b-992d-9ec8dda016e3"}]
+1583759462594	Marionette	DEBUG	0 <- [1,62,null,{"value":"Association de bénévoles"}]
+1583759462600	Marionette	DEBUG	0 -> [0,63,"WebDriver:GetElementText",{"id":"94ae70d1-898e-0c4e-aa94-9a7c3ba282ba"}]
+1583759462607	Marionette	DEBUG	0 <- [1,63,null,{"value":"Offices religieux / jours"}]
+1583759462611	Marionette	DEBUG	0 -> [0,64,"WebDriver:GetElementText",{"id":"aeb3efe4-424a-5947-b79c-d2a468eff100"}]
+1583759462618	Marionette	DEBUG	0 <- [1,64,null,{"value":"Accès résidence sécurisé"}]
+1583759462621	Marionette	DEBUG	0 -> [0,65,"WebDriver:GetElementText",{"id":"3086ec0f-bdba-0842-86e2-e7807f9f2f9c"}]
+1583759462744	Marionette	DEBUG	0 <- [1,65,null,{"value":""}]
+1583759462746	Marionette	DEBUG	0 -> [0,66,"WebDriver:GetElementText",{"id":"18bbf68c-490f-dd44-9493-e79843eaa677"}]
+1583759462856	Marionette	DEBUG	0 <- [1,66,null,{"value":""}]
+1583759462859	Marionette	DEBUG	0 -> [0,67,"WebDriver:GetElementText",{"id":"855353fd-30f1-274d-8df6-a05ab6a22fe7"}]
+1583759462957	Marionette	DEBUG	0 <- [1,67,null,{"value":""}]
+1583759462959	Marionette	DEBUG	0 -> [0,68,"WebDriver:GetElementText",{"id":"568ea6c5-5487-6142-aba2-e26a5f453fb5"}]
+1583759462964	Marionette	DEBUG	0 <- [1,68,null,{"value":""}]
+1583759462966	Marionette	DEBUG	0 -> [0,69,"WebDriver:GetElementText",{"id":"57b78d1b-1b01-cb4c-a4db-f6f5689029d3"}]
+1583759462971	Marionette	DEBUG	0 <- [1,69,null,{"value":""}]
+1583759462974	Marionette	DEBUG	0 -> [0,70,"WebDriver:GetElementText",{"id":"65aa2ca8-1f4c-e442-b8ee-77e56e9009e9"}]
+1583759462978	Marionette	DEBUG	0 <- [1,70,null,{"value":""}]
+1583759462981	Marionette	DEBUG	0 -> [0,71,"WebDriver:GetElementText",{"id":"fef0458c-d543-5348-b1c0-329712758381"}]
+1583759462986	Marionette	DEBUG	0 <- [1,71,null,{"value":""}]
+1583759462988	Marionette	DEBUG	0 -> [0,72,"WebDriver:GetElementText",{"id":"a1916914-c974-a64a-8038-9fbd987d8326"}]
+1583759462993	Marionette	DEBUG	0 <- [1,72,null,{"value":""}]
+1583759462996	Marionette	DEBUG	0 -> [0,73,"WebDriver:GetElementText",{"id":"6d0a89d3-1aa4-2945-92ac-b492b7beef45"}]
+1583759462999	Marionette	DEBUG	0 <- [1,73,null,{"value":""}]
+1583759463002	Marionette	DEBUG	0 -> [0,74,"WebDriver:GetElementText",{"id":"230d2110-f9ee-ca4b-a6da-0d081e9acc8e"}]
+1583759463005	Marionette	DEBUG	0 <- [1,74,null,{"value":""}]
+1583759463008	Marionette	DEBUG	0 -> [0,75,"WebDriver:GetElementText",{"id":"e634ec92-618d-1b41-a617-e80beea2330c"}]
+1583759463011	Marionette	DEBUG	0 <- [1,75,null,{"value":""}]
+1583759463014	Marionette	DEBUG	0 -> [0,76,"WebDriver:GetElementText",{"id":"4d5f4062-2cc8-444d-8ac9-f1e7d886e4b6"}]
+1583759463017	Marionette	DEBUG	0 <- [1,76,null,{"value":""}]
+1583759463020	Marionette	DEBUG	0 -> [0,77,"WebDriver:GetElementText",{"id":"c74143ef-2643-1e40-9e88-7d706fd099c2"}]
+1583759463023	Marionette	DEBUG	0 <- [1,77,null,{"value":""}]
+1583759463025	Marionette	DEBUG	0 -> [0,78,"WebDriver:GetElementText",{"id":"6013b3ad-a20d-754a-96d3-33b9002185e3"}]
+1583759463029	Marionette	DEBUG	0 <- [1,78,null,{"value":""}]
+1583759463031	Marionette	DEBUG	0 -> [0,79,"WebDriver:GetElementText",{"id":"018d31ec-8f92-7a44-b533-8a16fe8c6768"}]
+1583759463035	Marionette	DEBUG	0 <- [1,79,null,{"value":""}]
+1583759463037	Marionette	DEBUG	0 -> [0,80,"WebDriver:GetElementText",{"id":"8a645966-8281-4e43-b3e1-13159272b8fa"}]
+1583759463041	Marionette	DEBUG	0 <- [1,80,null,{"value":""}]
+1583759463043	Marionette	DEBUG	0 -> [0,81,"WebDriver:GetElementText",{"id":"708d72bb-82b3-de47-a140-7d54569a5c78"}]
+1583759463047	Marionette	DEBUG	0 <- [1,81,null,{"value":""}]
+1583759463050	Marionette	DEBUG	0 -> [0,82,"WebDriver:GetElementText",{"id":"9dd07834-f85b-b94d-9783-2a8827da0095"}]
+1583759463053	Marionette	DEBUG	0 <- [1,82,null,{"value":""}]
+1583759463056	Marionette	DEBUG	0 -> [0,83,"WebDriver:GetElementText",{"id":"cad8833e-8b8c-9f42-8d57-be0418142496"}]
+1583759463060	Marionette	DEBUG	0 <- [1,83,null,{"value":""}]
+1583759463063	Marionette	DEBUG	0 -> [0,84,"WebDriver:GetElementText",{"id":"b298ffbb-8d0d-7441-822d-39adb9aa4d69"}]
+1583759463067	Marionette	DEBUG	0 <- [1,84,null,{"value":""}]
+1583759463070	Marionette	DEBUG	0 -> [0,85,"WebDriver:GetElementText",{"id":"6342d2d0-be46-9146-aa4b-09cfb3e29ef5"}]
+1583759463074	Marionette	DEBUG	0 <- [1,85,null,{"value":""}]
+1583759463077	Marionette	DEBUG	0 -> [0,86,"WebDriver:GetElementText",{"id":"7314fcee-ba28-6c42-9185-8b089c18e980"}]
+1583759463082	Marionette	DEBUG	0 <- [1,86,null,{"value":""}]
+1583759463089	Marionette	DEBUG	0 -> [0,87,"WebDriver:GetElementText",{"id":"cf2dc4ab-f78b-cb46-9bf7-ce9187c6cc1d"}]
+1583759463099	Marionette	DEBUG	0 <- [1,87,null,{"value":""}]
+1583759463103	Marionette	DEBUG	0 -> [0,88,"WebDriver:GetElementText",{"id":"0a8dea18-7622-ee4f-a86c-3feb1ba6f442"}]
+1583759463108	Marionette	DEBUG	0 <- [1,88,null,{"value":""}]
+1583759463110	Marionette	DEBUG	0 -> [0,89,"WebDriver:GetElementText",{"id":"a51b0435-d1e5-864a-9712-5bf51b2b36c3"}]
+1583759463116	Marionette	DEBUG	0 <- [1,89,null,{"value":""}]
+1583759463124	Marionette	DEBUG	0 -> [0,90,"WebDriver:GetElementText",{"id":"1d00a1b7-0300-ed49-b453-71bd0a2f65a7"}]
+1583759463130	Marionette	DEBUG	0 <- [1,90,null,{"value":""}]
+1583759463136	Marionette	DEBUG	0 -> [0,91,"WebDriver:GetElementText",{"id":"e0fcec48-e6ec-9546-988a-a980e23e25b9"}]
+1583759463141	Marionette	DEBUG	0 <- [1,91,null,{"value":""}]
+1583759463144	Marionette	DEBUG	0 -> [0,92,"WebDriver:GetElementText",{"id":"11fa45e4-408a-b148-b0a5-f85c0a3eb433"}]
+1583759463148	Marionette	DEBUG	0 <- [1,92,null,{"value":""}]
+1583759463164	Marionette	DEBUG	0 -> [0,93,"WebDriver:GetElementText",{"id":"bbd4c88b-1dd2-f84a-b588-1dc09761fbe2"}]
+1583759463181	Marionette	DEBUG	0 <- [1,93,null,{"value":""}]
+1583759463187	Marionette	DEBUG	0 -> [0,94,"WebDriver:GetElementText",{"id":"1bcfaa48-ccfb-cc43-8042-2c53cb45aa51"}]
+1583759463193	Marionette	DEBUG	0 <- [1,94,null,{"value":""}]
+1583759463200	Marionette	DEBUG	0 -> [0,95,"WebDriver:GetElementText",{"id":"0335ff50-cf91-4d47-aa1d-a962bc7d3bd9"}]
+1583759463204	Marionette	DEBUG	0 <- [1,95,null,{"value":""}]
+1583759463207	Marionette	DEBUG	0 -> [0,96,"WebDriver:GetElementText",{"id":"424d1437-f33f-0b41-b566-2302164e686d"}]
+1583759463211	Marionette	DEBUG	0 <- [1,96,null,{"value":""}]
+1583759463215	Marionette	DEBUG	0 -> [0,97,"WebDriver:GetElementText",{"id":"a4c85445-5b75-c147-a18a-2ad4d25cc0df"}]
+1583759463220	Marionette	DEBUG	0 <- [1,97,null,{"value":""}]
+1583759463223	Marionette	DEBUG	0 -> [0,98,"WebDriver:GetElementText",{"id":"5d17c5c9-a19a-3a4a-821a-6807ad9b3415"}]
+1583759463227	Marionette	DEBUG	0 <- [1,98,null,{"value":""}]
+1583759463230	Marionette	DEBUG	0 -> [0,99,"WebDriver:GetElementText",{"id":"3952b65e-48ca-4c4e-ac20-cde32aeca94f"}]
+1583759463235	Marionette	DEBUG	0 <- [1,99,null,{"value":""}]
+1583759463239	Marionette	DEBUG	0 -> [0,100,"WebDriver:GetElementText",{"id":"ce34db48-9747-1541-8f0a-d5103674debf"}]
+1583759463243	Marionette	DEBUG	0 <- [1,100,null,{"value":""}]
+1583759463246	Marionette	DEBUG	0 -> [0,101,"WebDriver:GetElementText",{"id":"aa9045b8-1117-5042-8228-83669388ef8e"}]
+1583759463251	Marionette	DEBUG	0 <- [1,101,null,{"value":""}]
+1583759463254	Marionette	DEBUG	0 -> [0,102,"WebDriver:GetElementText",{"id":"eaa1ab98-9c0a-df43-92b9-5704377d3a21"}]
+1583759463257	Marionette	DEBUG	0 <- [1,102,null,{"value":""}]
+1583759463260	Marionette	DEBUG	0 -> [0,103,"WebDriver:GetElementText",{"id":"c8d76180-3857-7c43-92ab-a1187c0506f8"}]
+1583759463266	Marionette	DEBUG	0 <- [1,103,null,{"value":""}]
+1583759463270	Marionette	DEBUG	0 -> [0,104,"WebDriver:GetElementText",{"id":"f88f40b5-150f-6f46-ab71-18e9a3899c5f"}]
+1583759463275	Marionette	DEBUG	0 <- [1,104,null,{"value":""}]
+1583759463279	Marionette	DEBUG	0 -> [0,105,"WebDriver:GetElementText",{"id":"e5e9b148-d239-7745-901b-259aeb1b300a"}]
+1583759463284	Marionette	DEBUG	0 <- [1,105,null,{"value":""}]
+1583759463286	Marionette	DEBUG	0 -> [0,106,"WebDriver:GetElementText",{"id":"13763f69-bdec-f94c-ada1-9d2c135baeda"}]
+1583759463290	Marionette	DEBUG	0 <- [1,106,null,{"value":""}]
+1583759463293	Marionette	DEBUG	0 -> [0,107,"WebDriver:GetElementText",{"id":"e0115814-6d87-de41-9405-9186dc0c0925"}]
+1583759463297	Marionette	DEBUG	0 <- [1,107,null,{"value":""}]
+1583759463302	Marionette	DEBUG	0 -> [0,108,"WebDriver:GetElementText",{"id":"a136b4a4-343e-c84a-87d4-e2927ff1f9a3"}]
+1583759463307	Marionette	DEBUG	0 <- [1,108,null,{"value":""}]
+1583759463310	Marionette	DEBUG	0 -> [0,109,"WebDriver:GetElementText",{"id":"2b0bd591-936e-ae48-b0e1-785df99d9731"}]
+1583759463314	Marionette	DEBUG	0 <- [1,109,null,{"value":""}]
+1583759463317	Marionette	DEBUG	0 -> [0,110,"WebDriver:GetElementText",{"id":"bb6d8771-59aa-a743-b038-e5b2d8e3e0f6"}]
+1583759463321	Marionette	DEBUG	0 <- [1,110,null,{"value":""}]
+1583759463323	Marionette	DEBUG	0 -> [0,111,"WebDriver:GetElementText",{"id":"22833fa0-6afb-ac4e-b5c9-9ffb06219e54"}]
+1583759463327	Marionette	DEBUG	0 <- [1,111,null,{"value":""}]
+1583759463329	Marionette	DEBUG	0 -> [0,112,"WebDriver:GetElementText",{"id":"ea04528e-0ad1-f449-b316-7eff3769c1dd"}]
+1583759463333	Marionette	DEBUG	0 <- [1,112,null,{"value":""}]
+1583759463336	Marionette	DEBUG	0 -> [0,113,"WebDriver:GetElementText",{"id":"6e4b1e8d-9473-734a-a16d-a3c2a037747f"}]
+1583759463339	Marionette	DEBUG	0 <- [1,113,null,{"value":""}]
+1583759463342	Marionette	DEBUG	0 -> [0,114,"WebDriver:GetElementText",{"id":"23fb7090-0da7-9445-a880-7d2e7762bbb0"}]
+1583759463345	Marionette	DEBUG	0 <- [1,114,null,{"value":""}]
+1583759463348	Marionette	DEBUG	0 -> [0,115,"WebDriver:GetElementText",{"id":"091b2758-56dd-e847-bc52-7966b8a1ae6a"}]
+1583759463352	Marionette	DEBUG	0 <- [1,115,null,{"value":""}]
+1583759463354	Marionette	DEBUG	0 -> [0,116,"WebDriver:GetElementText",{"id":"8715d740-a5a5-3746-95df-4a71411cf8f2"}]
+1583759463358	Marionette	DEBUG	0 <- [1,116,null,{"value":""}]
+1583759463360	Marionette	DEBUG	0 -> [0,117,"WebDriver:GetElementText",{"id":"8aeb247b-c49a-7546-bb72-07539bc2032f"}]
+1583759463364	Marionette	DEBUG	0 <- [1,117,null,{"value":""}]
+1583759463366	Marionette	DEBUG	0 -> [0,118,"WebDriver:GetElementText",{"id":"64fbeb21-59af-e749-a03e-5a0efa958715"}]
+1583759463370	Marionette	DEBUG	0 <- [1,118,null,{"value":""}]
+1583759463373	Marionette	DEBUG	0 -> [0,119,"WebDriver:GetElementText",{"id":"af9b0f59-d14f-0545-b368-17c4c2614105"}]
+1583759463376	Marionette	DEBUG	0 <- [1,119,null,{"value":""}]
+1583759463379	Marionette	DEBUG	0 -> [0,120,"WebDriver:GetElementText",{"id":"157517db-f34b-6146-854e-acfa0a758598"}]
+1583759463382	Marionette	DEBUG	0 <- [1,120,null,{"value":""}]
+1583759463385	Marionette	DEBUG	0 -> [0,121,"WebDriver:GetElementText",{"id":"aeb5b88b-470a-fb45-8f05-1937578d4b9e"}]
+1583759463388	Marionette	DEBUG	0 <- [1,121,null,{"value":""}]
+1583759463391	Marionette	DEBUG	0 -> [0,122,"WebDriver:GetElementText",{"id":"0e65764a-05d0-0e48-a84e-e5ab4ceca98b"}]
+1583759463394	Marionette	DEBUG	0 <- [1,122,null,{"value":""}]
+1583759463397	Marionette	DEBUG	0 -> [0,123,"WebDriver:GetElementText",{"id":"6ef9e4b8-e6b3-1e42-8bc0-91886276d311"}]
+1583759463400	Marionette	DEBUG	0 <- [1,123,null,{"value":""}]
+1583759463403	Marionette	DEBUG	0 -> [0,124,"WebDriver:GetElementText",{"id":"24974b7f-b863-a644-b08d-89a17e9eff88"}]
+1583759463407	Marionette	DEBUG	0 <- [1,124,null,{"value":""}]
+1583759463409	Marionette	DEBUG	0 -> [0,125,"WebDriver:GetElementText",{"id":"7d7bc7d1-9de0-994c-b3f0-5409275e0c6c"}]
+1583759463413	Marionette	DEBUG	0 <- [1,125,null,{"value":""}]
+1583759463415	Marionette	DEBUG	0 -> [0,126,"WebDriver:GetElementText",{"id":"e9aa9781-8e0b-db47-bfee-c25edec7082b"}]
+1583759463419	Marionette	DEBUG	0 <- [1,126,null,{"value":""}]
+1583759463421	Marionette	DEBUG	0 -> [0,127,"WebDriver:GetElementText",{"id":"f821d841-82af-f540-8b0f-90018c2e9995"}]
+1583759463424	Marionette	DEBUG	0 <- [1,127,null,{"value":""}]
+1583759463427	Marionette	DEBUG	0 -> [0,128,"WebDriver:GetElementText",{"id":"bdd6aa41-d2a3-6b4f-8ef6-a9399ca9313b"}]
+1583759463431	Marionette	DEBUG	0 <- [1,128,null,{"value":""}]
+1583759463433	Marionette	DEBUG	0 -> [0,129,"WebDriver:GetElementText",{"id":"25d03512-0c4b-8643-b8bf-f371dab46bfc"}]
+1583759463437	Marionette	DEBUG	0 <- [1,129,null,{"value":""}]
+1583759463440	Marionette	DEBUG	0 -> [0,130,"WebDriver:GetElementText",{"id":"c04fa972-3634-3d49-8b68-daba926ae14a"}]
+1583759463444	Marionette	DEBUG	0 <- [1,130,null,{"value":""}]
+1583759463446	Marionette	DEBUG	0 -> [0,131,"WebDriver:GetElementText",{"id":"8fa68487-986b-6e4c-828f-e6f19da67b3c"}]
+1583759463450	Marionette	DEBUG	0 <- [1,131,null,{"value":""}]
+1583759463453	Marionette	DEBUG	0 -> [0,132,"WebDriver:GetElementText",{"id":"581c9362-e1b3-8e48-9f23-78637e5b80e2"}]
+1583759463460	Marionette	DEBUG	0 <- [1,132,null,{"value":""}]
+1583759463462	Marionette	DEBUG	0 -> [0,133,"WebDriver:GetElementText",{"id":"7cd503ff-5209-bc46-919f-e757c4fe367e"}]
+1583759463466	Marionette	DEBUG	0 <- [1,133,null,{"value":""}]
+1583759463469	Marionette	DEBUG	0 -> [0,134,"WebDriver:GetElementText",{"id":"8f1fff09-de12-184e-a849-dfb86044765a"}]
+1583759463474	Marionette	DEBUG	0 <- [1,134,null,{"value":""}]
+1583759463477	Marionette	DEBUG	0 -> [0,135,"WebDriver:GetElementText",{"id":"0b2a8330-4451-1748-b895-f188ba4d4cde"}]
+1583759463481	Marionette	DEBUG	0 <- [1,135,null,{"value":""}]
+1583759463486	Marionette	DEBUG	0 -> [0,136,"WebDriver:GetElementText",{"id":"df5cfc15-bb31-584c-b1f9-dc8e08735130"}]
+1583759463491	Marionette	DEBUG	0 <- [1,136,null,{"value":""}]
+1583759463493	Marionette	DEBUG	0 -> [0,137,"WebDriver:GetElementText",{"id":"2aaf7391-5ecd-b942-9769-521ca790c8bc"}]
+1583759463497	Marionette	DEBUG	0 <- [1,137,null,{"value":""}]
+1583759463501	Marionette	DEBUG	0 -> [0,138,"WebDriver:GetElementText",{"id":"8f5380f1-a398-094d-9cfd-3ce2ab9083d3"}]
+1583759463506	Marionette	DEBUG	0 <- [1,138,null,{"value":""}]
+1583759463509	Marionette	DEBUG	0 -> [0,139,"WebDriver:GetElementText",{"id":"3139ca7d-46a4-494c-882f-c088b6fc0924"}]
+1583759463512	Marionette	DEBUG	0 <- [1,139,null,{"value":""}]
+1583759463515	Marionette	DEBUG	0 -> [0,140,"WebDriver:GetElementText",{"id":"5b84b00d-8b8f-f946-81df-405a6b4ba065"}]
+1583759463518	Marionette	DEBUG	0 <- [1,140,null,{"value":""}]
+1583759463521	Marionette	DEBUG	0 -> [0,141,"WebDriver:GetElementText",{"id":"cfb5205a-1e31-c842-b1de-47ef7eaecf6b"}]
+1583759463524	Marionette	DEBUG	0 <- [1,141,null,{"value":""}]
+1583759463527	Marionette	DEBUG	0 -> [0,142,"WebDriver:GetElementText",{"id":"7def6eff-da54-bb48-a5a0-f12ebc587f2e"}]
+1583759463531	Marionette	DEBUG	0 <- [1,142,null,{"value":""}]
+1583759463534	Marionette	DEBUG	0 -> [0,143,"WebDriver:GetElementText",{"id":"d3c40f2c-ad39-0749-8a36-d1b447db4637"}]
+1583759463538	Marionette	DEBUG	0 <- [1,143,null,{"value":""}]
+1583759463540	Marionette	DEBUG	0 -> [0,144,"WebDriver:GetElementText",{"id":"6511c1f4-7e84-ca4a-b417-971fe5aea833"}]
+1583759463543	Marionette	DEBUG	0 <- [1,144,null,{"value":""}]
+1583759463546	Marionette	DEBUG	0 -> [0,145,"WebDriver:GetElementText",{"id":"050bf4e4-1082-5e46-b6ee-6d9c827c2f88"}]
+1583759463550	Marionette	DEBUG	0 <- [1,145,null,{"value":""}]
+1583759463552	Marionette	DEBUG	0 -> [0,146,"WebDriver:GetElementText",{"id":"8fb0da18-25a2-0a43-add0-fc4cdd11b76e"}]
+1583759463555	Marionette	DEBUG	0 <- [1,146,null,{"value":""}]
+1583759463558	Marionette	DEBUG	0 -> [0,147,"WebDriver:GetElementText",{"id":"c01bb55d-6d93-bd41-b56e-bb52bbfe2581"}]
+1583759463561	Marionette	DEBUG	0 <- [1,147,null,{"value":""}]
+1583759463564	Marionette	DEBUG	0 -> [0,148,"WebDriver:GetElementText",{"id":"cf029ff1-09db-d04d-b43d-d66d3ac12c2a"}]
+1583759463567	Marionette	DEBUG	0 <- [1,148,null,{"value":""}]
+1583759463570	Marionette	DEBUG	0 -> [0,149,"WebDriver:GetElementText",{"id":"5662832c-4a74-bb42-a618-910f35395546"}]
+1583759463573	Marionette	DEBUG	0 <- [1,149,null,{"value":""}]
+1583759463576	Marionette	DEBUG	0 -> [0,150,"WebDriver:GetElementText",{"id":"74d7c8f7-2abb-1a43-aaa1-c7a0166d1d4f"}]
+1583759463579	Marionette	DEBUG	0 <- [1,150,null,{"value":""}]
+1583759463582	Marionette	DEBUG	0 -> [0,151,"WebDriver:GetElementText",{"id":"499280a6-94c8-2248-a472-a99b66203b56"}]
+1583759463585	Marionette	DEBUG	0 <- [1,151,null,{"value":""}]
+1583759463588	Marionette	DEBUG	0 -> [0,152,"WebDriver:GetElementText",{"id":"7b0a5d8c-17ab-8549-a7d6-949809f09a3a"}]
+1583759463591	Marionette	DEBUG	0 <- [1,152,null,{"value":""}]
+1583759463594	Marionette	DEBUG	0 -> [0,153,"WebDriver:GetElementText",{"id":"e9ce593f-1e76-a646-8522-13e8fbbe286c"}]
+1583759463597	Marionette	DEBUG	0 <- [1,153,null,{"value":""}]
+1583759463600	Marionette	DEBUG	0 -> [0,154,"WebDriver:GetElementText",{"id":"9db088d7-f281-3549-95a0-85bce85673a9"}]
+1583759463603	Marionette	DEBUG	0 <- [1,154,null,{"value":""}]
+1583759463606	Marionette	DEBUG	0 -> [0,155,"WebDriver:GetElementText",{"id":"ef8f2256-240d-f74c-9c2a-a9edf8aa3775"}]
+1583759463610	Marionette	DEBUG	0 <- [1,155,null,{"value":""}]
+1583759463613	Marionette	DEBUG	0 -> [0,156,"WebDriver:GetElementText",{"id":"06b60705-a38d-d349-99ed-601643cf7b14"}]
+1583759463616	Marionette	DEBUG	0 <- [1,156,null,{"value":""}]
+1583759463619	Marionette	DEBUG	0 -> [0,157,"WebDriver:GetElementText",{"id":"fddc8c74-9eca-6243-93fd-def026ab4c18"}]
+1583759463622	Marionette	DEBUG	0 <- [1,157,null,{"value":""}]
+1583759463625	Marionette	DEBUG	0 -> [0,158,"WebDriver:GetElementText",{"id":"e9355a8e-e499-894f-839f-052d872e4e47"}]
+1583759463628	Marionette	DEBUG	0 <- [1,158,null,{"value":""}]
+1583759463631	Marionette	DEBUG	0 -> [0,159,"WebDriver:GetElementText",{"id":"8a923bd5-ec80-6747-b8a2-3417530871f8"}]
+1583759463634	Marionette	DEBUG	0 <- [1,159,null,{"value":""}]
+1583759463637	Marionette	DEBUG	0 -> [0,160,"WebDriver:GetElementText",{"id":"45cf47e3-272b-3944-af43-dc2ee579dc7d"}]
+1583759463640	Marionette	DEBUG	0 <- [1,160,null,{"value":""}]
+1583759463643	Marionette	DEBUG	0 -> [0,161,"WebDriver:GetElementText",{"id":"8818d35e-dd8a-0f4a-8337-c0ab8426a468"}]
+1583759463646	Marionette	DEBUG	0 <- [1,161,null,{"value":""}]
+1583759463649	Marionette	DEBUG	0 -> [0,162,"WebDriver:GetElementText",{"id":"e492eb52-2238-b94d-afc0-bc766d374166"}]
+1583759463652	Marionette	DEBUG	0 <- [1,162,null,{"value":""}]
+1583759463655	Marionette	DEBUG	0 -> [0,163,"WebDriver:GetElementText",{"id":"fba88dc0-48df-8842-bc56-7aa52b0c6ab2"}]
+1583759463658	Marionette	DEBUG	0 <- [1,163,null,{"value":""}]
+1583759463660	Marionette	DEBUG	0 -> [0,164,"WebDriver:GetElementText",{"id":"0a2f093b-6db1-4d46-a20f-8a27ec8cff43"}]
+1583759463665	Marionette	DEBUG	0 <- [1,164,null,{"value":""}]
+1583759463667	Marionette	DEBUG	0 -> [0,165,"WebDriver:GetElementText",{"id":"006bac84-9894-074d-aa63-ead9772ae763"}]
+1583759463671	Marionette	DEBUG	0 <- [1,165,null,{"value":""}]
+1583759463673	Marionette	DEBUG	0 -> [0,166,"WebDriver:GetElementText",{"id":"a86a07eb-85d2-dd42-ab75-986d2f7f0f19"}]
+1583759463677	Marionette	DEBUG	0 <- [1,166,null,{"value":""}]
+1583759463680	Marionette	DEBUG	0 -> [0,167,"WebDriver:GetElementText",{"id":"60a39101-2a3f-5546-a370-143c259c35f2"}]
+1583759463688	Marionette	DEBUG	0 <- [1,167,null,{"value":""}]
+1583759463692	Marionette	DEBUG	0 -> [0,168,"WebDriver:GetElementText",{"id":"093298e2-d085-eb4e-bb7d-a4a5a9a7efda"}]
+1583759463695	Marionette	DEBUG	0 <- [1,168,null,{"value":""}]
+1583759463699	Marionette	DEBUG	0 -> [0,169,"WebDriver:GetElementText",{"id":"5f373285-0f18-3e44-90ca-342afe264cf9"}]
+1583759463706	Marionette	DEBUG	0 <- [1,169,null,{"value":"Trouvez une place"}]
+1583759463709	Marionette	DEBUG	0 -> [0,170,"WebDriver:GetElementText",{"id":"982bff71-9bc7-a44a-8028-21605309cbcf"}]
+1583759463715	Marionette	DEBUG	0 <- [1,170,null,{"value":"Financer"}]
+1583759463718	Marionette	DEBUG	0 -> [0,171,"WebDriver:GetElementText",{"id":"2e7a195c-809e-374f-a51e-fd8510fc089a"}]
+1583759463722	Marionette	DEBUG	0 <- [1,171,null,{"value":"Services à domicile"}]
+1583759463725	Marionette	DEBUG	0 -> [0,172,"WebDriver:GetElementText",{"id":"25c2c159-a204-a646-bf72-97f995fb9f51"}]
+1583759463730	Marionette	DEBUG	0 <- [1,172,null,{"value":"Résidence services"}]
+1583759463733	Marionette	DEBUG	0 -> [0,173,"WebDriver:GetElementText",{"id":"21379730-25dc-7a41-839f-7f90c85a8b91"}]
+1583759463737	Marionette	DEBUG	0 <- [1,173,null,{"value":"Palmarès"}]
+1583759463740	Marionette	DEBUG	0 -> [0,174,"WebDriver:GetElementText",{"id":"b0da06ea-6a1e-884b-bc24-56ba6e89885d"}]
+1583759463744	Marionette	DEBUG	0 <- [1,174,null,{"value":"Aide à la personne"}]
+1583759463747	Marionette	DEBUG	0 -> [0,175,"WebDriver:GetElementText",{"id":"b15e1b84-6777-924f-85bb-310d20853c54"}]
+1583759463753	Marionette	DEBUG	0 <- [1,175,null,{"value":"Téléassistance"}]
+1583759463755	Marionette	DEBUG	0 -> [0,176,"WebDriver:GetElementText",{"id":"cd7adaac-aaff-1f4d-bef6-1bfb6e39f28c"}]
+1583759463760	Marionette	DEBUG	0 <- [1,176,null,{"value":"Bien être et loisirs"}]
+1583759463763	Marionette	DEBUG	0 -> [0,177,"WebDriver:GetElementText",{"id":"d5dd4e01-1391-7345-a04e-a8810e8e00d8"}]
+1583759463767	Marionette	DEBUG	0 <- [1,177,null,{"value":"Aménagement du domicile"}]
+1583759463770	Marionette	DEBUG	0 -> [0,178,"WebDriver:GetElementText",{"id":"64b2cd94-a74c-334a-b9d3-7d0e425a4c64"}]
+1583759463774	Marionette	DEBUG	0 <- [1,178,null,{"value":"Matériel médical et de confort"}]
+1583759463776	Marionette	DEBUG	0 -> [0,179,"WebDriver:GetElementText",{"id":"e9e8d668-a96a-e34e-bb54-2d65f910d637"}]
+1583759463781	Marionette	DEBUG	0 <- [1,179,null,{"value":"Méthodologie vidéo"}]
+1583759463783	Marionette	DEBUG	0 -> [0,180,"WebDriver:GetElementText",{"id":"85216f3a-821a-8440-8ed2-69a5fac26c17"}]
+1583759463788	Marionette	DEBUG	0 <- [1,180,null,{"value":"Barèmes"}]
+1583759463790	Marionette	DEBUG	0 -> [0,181,"WebDriver:GetElementText",{"id":"b13e534d-0886-7b4e-a06c-b0c18785aa00"}]
+1583759463794	Marionette	DEBUG	0 <- [1,181,null,{"value":"Déclaration dintention"}]
+1583759463797	Marionette	DEBUG	0 -> [0,182,"WebDriver:GetElementText",{"id":"713b2b48-fc0a-5146-a836-0df3a77eebd3"}]
+1583759463801	Marionette	DEBUG	0 <- [1,182,null,{"value":"Complément d’enquête"}]
+1583759463804	Marionette	DEBUG	0 -> [0,183,"WebDriver:GetElementText",{"id":"03758df1-dc84-494d-bc95-a451b261befe"}]
+1583759463808	Marionette	DEBUG	0 <- [1,183,null,{"value":"Guide de l’aidant et du futur résident"}]
+1583759463811	Marionette	DEBUG	0 -> [0,184,"WebDriver:GetElementText",{"id":"cf42dac6-0a04-1742-a6fe-d23265a36eb6"}]
+1583759463814	Marionette	DEBUG	0 <- [1,184,null,{"value":"Guide \"Que choisir ?\""}]
+1583759463817	Marionette	DEBUG	0 -> [0,185,"WebDriver:GetElementText",{"id":"49302eab-e817-7849-9b1d-b16fc14320d7"}]
+1583759463822	Marionette	DEBUG	0 <- [1,185,null,{"value":"Droits et dépendances"}]
+1583759463824	Marionette	DEBUG	0 -> [0,186,"WebDriver:GetElementText",{"id":"38b1e2a7-511b-d645-856c-3d2c95ffdc10"}]
+1583759463828	Marionette	DEBUG	0 <- [1,186,null,{"value":"Le palmarès MDRS"}]
+1583759463831	Marionette	DEBUG	0 -> [0,187,"WebDriver:GetElementText",{"id":"ca579147-a2d1-8843-8028-803dfc073875"}]
+1583759463835	Marionette	DEBUG	0 <- [1,187,null,{"value":"Blog MDRS"}]
+1583759463837	Marionette	DEBUG	0 -> [0,188,"WebDriver:GetElementText",{"id":"ba5b5342-addd-1349-ba26-a4687870f63e"}]
+1583759463841	Marionette	DEBUG	0 <- [1,188,null,{"value":"Mentions légales"}]
+1583759463844	Marionette	DEBUG	0 -> [0,189,"WebDriver:GetElementText",{"id":"ce53d1d1-27b1-4f42-8e1f-6144e5af0c43"}]
+1583759463850	Marionette	DEBUG	0 <- [1,189,null,{"value":"Contact"}]
+1583759463853	Marionette	DEBUG	0 -> [0,190,"WebDriver:GetElementText",{"id":"70275c38-2b26-fc40-a81a-a34bdb5a159b"}]
+1583759463859	Marionette	DEBUG	0 <- [1,190,null,{"value":"Déclaration d’intention"}]
+1583759463861	Marionette	DEBUG	0 -> [0,191,"WebDriver:GetElementText",{"id":"3dd11675-dd76-704a-9e5b-91e841372c82"}]
+1583759463868	Marionette	DEBUG	0 <- [1,191,null,{"value":"Qui sommes-nous ?"}]
+1583759463870	Marionette	DEBUG	0 -> [0,192,"WebDriver:GetElementText",{"id":"e5b245d7-0195-cc4c-a049-02470f6b6761"}]
+1583759463878	Marionette	DEBUG	0 <- [1,192,null,{"value":"Espace professionnel"}]
+1583759463881	Marionette	DEBUG	0 -> [0,193,"WebDriver:GetElementText",{"id":"0385b207-5d60-5549-9d2e-4e3042c91ff2"}]
+1583759463889	Marionette	DEBUG	0 <- [1,193,null,{"value":"Espace Personnel\n(fermé - en travaux)"}]
+1583759463892	Marionette	DEBUG	0 -> [0,194,"WebDriver:GetElementText",{"id":"c6e99006-3c71-b94f-9d3f-77afc8af81b3"}]
+1583759463896	Marionette	DEBUG	0 <- [1,194,null,{"value":""}]
+1583759463899	Marionette	DEBUG	0 -> [0,195,"WebDriver:GetElementText",{"id":"0d8144ba-18a7-1545-8927-f55618ebef93"}]
+1583759463906	Marionette	DEBUG	0 <- [1,195,null,{"value":"Facebook"}]
+1583759463908	Marionette	DEBUG	0 -> [0,196,"WebDriver:GetElementText",{"id":"e54d51ae-1eb9-ed47-976e-ff001ef9b13d"}]
+1583759463915	Marionette	DEBUG	0 <- [1,196,null,{"value":"LinkedIn"}]
+1583759463919	Marionette	DEBUG	0 -> [0,197,"Marionette:Quit",{"flags":["eForceQuit"]}]
+1583759463920	Marionette	INFO	Stopped listening on port 61562
+1583759463966	Marionette	TRACE	Received observer notification quit-application
+1583759463969	Marionette	DEBUG	0 <- [1,197,null,{"cause":"shutdown"}]
+1583759464007	Marionette	DEBUG	0 -> [0,198,"Marionette:Quit",{"flags":["eForceQuit"]}]
+1583759464007	Marionette	DEBUG	0 <- [1,198,{"error":"invalid session id","message":"Tried to run command without establishing a connection","stacktrace":"WebDriv ... t@chrome://marionette/content/server.js:249:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:501:20\n"},null]
+1583759464008	Marionette	DEBUG	Closed connection 0
+1583759465116	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1583759465116	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1583759465116	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1583759465116	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1583759465116	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1583759465116	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1583759465117	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1583759465117	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1583759465117	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1583759465117	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1583759465117	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1583759465117	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1583759465117	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1583759465117	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1583759465117	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1583759465118	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1583759465118	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1583759465118	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1583759465118	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1583759465118	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1583759465118	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1583759465118	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1583759465118	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1583759465118	Marionette	DEBUG	Resetting recommended pref extensions.webservice.discoverURL
+1583759465118	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1583759465118	Marionette	DEBUG	Resetting recommended pref network.http.speculative-parallel-limit
+1583759465118	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1583759465118	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1583759465118	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1583759465118	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1583759465118	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1583759465119	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1583759465119	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1583759465119	Marionette	DEBUG	Marionette stopped listening
+1583759687701	geckodriver	INFO	geckodriver 0.21.0
+1583759687707	geckodriver	INFO	Listening on 127.0.0.1:62601
+1583759688708	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4h/51s1_bdj0fb38tn9hf2p9xcr0000gn/T/rust_mozprofile.v1pf0P021K5w"
+1583759689317	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583759689425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583759689425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583759689425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583759689426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583759689526	Marionette	TRACE	Received observer notification profile-after-change
+1583759689606	Marionette	TRACE	Received observer notification command-line-startup
+1583759689607	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1583759689757	Marionette	TRACE	Received observer notification toplevel-window-ready
+1583759691583	Marionette	TRACE	Received observer notification marionette-startup-requested
+1583759691585	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1583759691595	Marionette	TRACE	All scripts recorded.
+1583759691596	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1583759691596	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1583759691596	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1583759691597	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1583759691597	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1583759691598	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1583759691598	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1583759691598	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1583759691599	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1583759691599	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1583759691599	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1583759691599	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1583759691599	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1583759691599	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1583759691600	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1583759691600	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1583759691600	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1583759691600	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1583759691600	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1583759691600	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1583759691601	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1583759691601	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1583759691601	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1583759691601	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1583759691601	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1583759691601	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1583759691601	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1583759691602	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1583759691602	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1583759691602	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1583759691602	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1583759691602	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1583759691645	Marionette	INFO	Listening on port 62616
+1583759691645	Marionette	DEBUG	Marionette is listening
+1583759691683	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:62672
+1583759691688	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1583759691689	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583759691713	Marionette	TRACE	[17] Frame script loaded
+1583759691721	Marionette	TRACE	[17] Frame script registered
+1583759691726	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"13383aad-0121-d942-b5f3-2c5288196d90","capabilities":{"browserName":"firefox","browserVersion":"72.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1583759691738	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://www.maison-retraite-selection.fr/maison-de-retraite/ehpad/4738-le-cercle-des-aines-de-saint-germain.html&pc=1"}]
+1583759691745	Marionette	TRACE	[17] Received DOM event beforeunload for about:blank
+1583759692649	Marionette	TRACE	[17] Received DOM event pagehide for about:blank
+JavaScript error: https://www.maison-retraite-selection.fr/dist/js/vendors~block-0~block-10~block-12~block-18~block-6.09bb63c6.js, line 1: TypeError: s is undefined
+JavaScript error: https://www.maison-retraite-selection.fr/src/js/main.js, line 11054: TypeError: this.$content is null
+JavaScript error: https://www.maison-retraite-selection.fr/dist/js/vendors~block-0~block-10~block-12~block-18~block-6.09bb63c6.js, line 1: TypeError: s is undefined
+JavaScript warning: https://www.maison-retraite-selection.fr/src/script/vendor.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1583759698578	Marionette	TRACE	[17] Received DOM event DOMContentLoaded for https://www.maison-retraite-selection.fr/maison-de-retraite/ehpad/4738-le-cercle-des-aines-de-saint-germain.html&pc=1
+JavaScript error: https://www.maison-retraite-selection.fr/src/js/mdrs.js, line 83: TypeError: $(...).jScrollPane is not a function
+1583759702324	Marionette	TRACE	[17] Received DOM event pageshow for https://www.maison-retraite-selection.fr/maison-de-retraite/ehpad/4738-le-cercle-des-aines-de-saint-germain.html&pc=1
+1583759702325	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1583759716458	Marionette	DEBUG	Closed connection 0
+1583759717609	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1583759717609	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1583759717610	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1583759717610	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1583759717610	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1583759717612	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1583759717614	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1583759717616	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1583759717616	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1583759717617	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1583759717617	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1583759717617	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1583759717617	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1583759717618	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1583759717618	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1583759717618	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1583759717618	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1583759717619	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1583759717619	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1583759717619	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1583759717619	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1583759717620	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1583759717620	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1583759717620	Marionette	DEBUG	Resetting recommended pref extensions.webservice.discoverURL
+1583759717620	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1583759717620	Marionette	DEBUG	Resetting recommended pref network.http.speculative-parallel-limit
+1583759717621	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1583759717621	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1583759717621	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1583759717621	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1583759717621	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1583759717621	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1583759717622	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1583759717622	Marionette	INFO	Stopped listening on port 62616
+1583759717622	Marionette	DEBUG	Marionette stopped listening
+1583759737318	geckodriver	INFO	geckodriver 0.21.0
+1583759737327	geckodriver	INFO	Listening on 127.0.0.1:62889
+1583759738324	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4h/51s1_bdj0fb38tn9hf2p9xcr0000gn/T/rust_mozprofile.PAL6z6Db2xUP"
+1583759738913	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583759739023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583759739023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583759739026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583759739026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583759739124	Marionette	TRACE	Received observer notification profile-after-change
+1583759739210	Marionette	TRACE	Received observer notification command-line-startup
+1583759739210	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1583759739365	Marionette	TRACE	Received observer notification toplevel-window-ready
+1583759741363	Marionette	TRACE	Received observer notification marionette-startup-requested
+1583759741364	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1583759741374	Marionette	TRACE	All scripts recorded.
+1583759741374	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1583759741375	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1583759741375	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1583759741375	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1583759741376	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1583759741376	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1583759741377	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1583759741377	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1583759741377	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1583759741377	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1583759741377	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1583759741377	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1583759741377	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1583759741377	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1583759741378	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1583759741378	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1583759741378	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1583759741378	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1583759741379	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1583759741379	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1583759741379	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1583759741379	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1583759741379	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1583759741380	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1583759741380	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1583759741380	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1583759741380	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1583759741380	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1583759741380	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1583759741380	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1583759741380	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1583759741380	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1583759741454	Marionette	INFO	Listening on port 62905
+1583759741454	Marionette	DEBUG	Marionette is listening
+1583759741532	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:62959
+1583759741536	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1583759741537	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583759741578	Marionette	TRACE	[17] Frame script loaded
+1583759741581	Marionette	TRACE	[17] Frame script registered
+1583759741599	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"2f6ca2c0-9381-a041-9358-1939ec1fca75","capabilities":{"browserName":"firefox","browserVersion":"72.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1583759741653	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://www.maison-retraite-selection.fr/maison-de-retraite/ehpad/4738-le-cercle-des-aines-de-saint-germain.html&pc=1"}]
+1583759741669	Marionette	TRACE	[17] Received DOM event beforeunload for about:blank
+1583759742617	Marionette	TRACE	[17] Received DOM event pagehide for about:blank
+JavaScript error: https://www.maison-retraite-selection.fr/dist/js/vendors~block-0~block-10~block-12~block-18~block-6.09bb63c6.js, line 1: TypeError: s is undefined
+JavaScript error: https://www.maison-retraite-selection.fr/dist/js/vendors~block-0~block-10~block-12~block-18~block-6.09bb63c6.js, line 1: TypeError: s is undefined
+JavaScript error: https://www.maison-retraite-selection.fr/src/js/main.js, line 11054: TypeError: this.$content is null
+JavaScript warning: https://www.maison-retraite-selection.fr/src/script/vendor.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1583759748911	Marionette	TRACE	[17] Received DOM event DOMContentLoaded for https://www.maison-retraite-selection.fr/maison-de-retraite/ehpad/4738-le-cercle-des-aines-de-saint-germain.html&pc=1
+JavaScript error: https://www.maison-retraite-selection.fr/src/js/mdrs.js, line 83: TypeError: $(...).jScrollPane is not a function
+1583759751888	Marionette	TRACE	[17] Received DOM event pageshow for https://www.maison-retraite-selection.fr/maison-de-retraite/ehpad/4738-le-cercle-des-aines-de-saint-germain.html&pc=1
+1583759751890	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1583759806074	geckodriver	INFO	geckodriver 0.21.0
+1583759806080	geckodriver	INFO	Listening on 127.0.0.1:63249
+1583759807082	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4h/51s1_bdj0fb38tn9hf2p9xcr0000gn/T/rust_mozprofile.Eq592LDwVasW"
+1583759807668	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583759807775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583759807775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583759807778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583759807778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583759807885	Marionette	TRACE	Received observer notification profile-after-change
+1583759807970	Marionette	TRACE	Received observer notification command-line-startup
+1583759807970	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1583759808126	Marionette	TRACE	Received observer notification toplevel-window-ready
+1583759809834	Marionette	TRACE	Received observer notification marionette-startup-requested
+1583759809834	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1583759809845	Marionette	TRACE	All scripts recorded.
+1583759809845	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1583759809846	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1583759809846	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1583759809846	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1583759809846	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1583759809847	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1583759809848	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1583759809848	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1583759809848	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1583759809848	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1583759809848	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1583759809849	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1583759809849	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1583759809849	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1583759809850	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1583759809850	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1583759809850	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1583759809850	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1583759809850	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1583759809850	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1583759809851	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1583759809852	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1583759809852	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1583759809852	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1583759809852	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1583759809852	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1583759809852	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1583759809852	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1583759809852	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1583759809853	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1583759809853	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1583759809853	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1583759809898	Marionette	INFO	Listening on port 63264
+1583759809898	Marionette	DEBUG	Marionette is listening
+1583759809966	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:63315
+1583759809967	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1583759809968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583759809998	Marionette	TRACE	[17] Frame script loaded
+1583759810002	Marionette	TRACE	[17] Frame script registered
+1583759810011	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"15c955d0-78e3-884c-af6e-8b62c349eb8f","capabilities":{"browserName":"firefox","browserVersion":"72.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1583759810024	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://www.maison-retraite-selection.fr/maison-de-retraite/ehpad/4738-le-cercle-des-aines-de-saint-germain.html&pc=1"}]
+1583759810032	Marionette	TRACE	[17] Received DOM event beforeunload for about:blank
+1583759810635	Marionette	TRACE	[17] Received DOM event pagehide for about:blank
+JavaScript error: https://www.maison-retraite-selection.fr/dist/js/vendors~block-0~block-10~block-12~block-18~block-6.09bb63c6.js, line 1: TypeError: s is undefined
+JavaScript error: https://www.maison-retraite-selection.fr/src/js/main.js, line 11054: TypeError: this.$content is null
+JavaScript error: https://www.maison-retraite-selection.fr/dist/js/vendors~block-0~block-10~block-12~block-18~block-6.09bb63c6.js, line 1: TypeError: s is undefined
+JavaScript warning: https://www.maison-retraite-selection.fr/src/script/vendor.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1583759819058	Marionette	TRACE	[17] Received DOM event DOMContentLoaded for https://www.maison-retraite-selection.fr/maison-de-retraite/ehpad/4738-le-cercle-des-aines-de-saint-germain.html&pc=1
+JavaScript error: https://www.maison-retraite-selection.fr/src/js/mdrs.js, line 83: TypeError: $(...).jScrollPane is not a function
+1583759820292	Marionette	TRACE	[17] Received DOM event pageshow for https://www.maison-retraite-selection.fr/maison-de-retraite/ehpad/4738-le-cercle-des-aines-de-saint-germain.html&pc=1
+1583759820294	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1583759822489	Marionette	DEBUG	Closed connection 0
+1583759823623	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1583759823624	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1583759823624	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1583759823624	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1583759823624	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1583759823624	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1583759823624	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1583759823624	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1583759823625	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1583759823625	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1583759823625	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1583759823625	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1583759823625	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1583759823625	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1583759823625	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1583759823625	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1583759823625	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1583759823626	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1583759823626	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1583759823626	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1583759823626	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1583759823626	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1583759823626	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1583759823626	Marionette	DEBUG	Resetting recommended pref extensions.webservice.discoverURL
+1583759823626	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1583759823627	Marionette	DEBUG	Resetting recommended pref network.http.speculative-parallel-limit
+1583759823627	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1583759823627	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1583759823627	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1583759823627	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1583759823627	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1583759823627	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1583759823627	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1583759823627	Marionette	INFO	Stopped listening on port 63264
+1583759823627	Marionette	DEBUG	Marionette stopped listening
+1583759923325	geckodriver	INFO	geckodriver 0.21.0
+1583759923334	geckodriver	INFO	Listening on 127.0.0.1:63815
+1583759924331	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4h/51s1_bdj0fb38tn9hf2p9xcr0000gn/T/rust_mozprofile.GihE3MHvJugj"
+1583759924922	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583759925065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583759925065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583759925065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583759925065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583759925174	Marionette	TRACE	Received observer notification profile-after-change
+1583759925259	Marionette	TRACE	Received observer notification command-line-startup
+1583759925259	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1583759925405	Marionette	TRACE	Received observer notification toplevel-window-ready
+1583759927688	Marionette	TRACE	Received observer notification marionette-startup-requested
+1583759927688	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1583759927698	Marionette	TRACE	All scripts recorded.
+1583759927698	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1583759927698	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1583759927699	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1583759927699	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1583759927699	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1583759927700	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1583759927700	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1583759927700	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1583759927701	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1583759927701	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1583759927701	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1583759927701	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1583759927701	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1583759927702	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1583759927703	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1583759927703	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1583759927703	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1583759927703	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1583759927703	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1583759927703	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1583759927705	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1583759927706	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1583759927707	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1583759927707	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1583759927707	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1583759927708	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1583759927708	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1583759927708	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1583759927708	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1583759927708	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1583759927709	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1583759927709	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1583759927761	Marionette	INFO	Listening on port 63833
+1583759927762	Marionette	DEBUG	Marionette is listening
+1583759927824	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:63890
+1583759927826	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1583759927826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583759927860	Marionette	TRACE	[17] Frame script loaded
+1583759927861	Marionette	TRACE	[17] Frame script registered
+1583759927863	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"74700778-e246-b349-ace4-8f2a321abe8a","capabilities":{"browserName":"firefox","browserVersion":"72.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1583759927873	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://www.maison-retraite-selection.fr/maison-de-retraite/ehpad/4738-le-cercle-des-aines-de-saint-germain.html&pc=1"}]
+1583759927881	Marionette	TRACE	[17] Received DOM event beforeunload for about:blank
+1583759928757	Marionette	TRACE	[17] Received DOM event pagehide for about:blank
+1583759931248	Marionette	DEBUG	Closed connection 0
+1583759931359	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1583759931360	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1583759931360	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1583759931360	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1583759931360	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1583759931360	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1583759931360	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1583759931360	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1583759931361	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1583759931361	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1583759931361	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1583759931361	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1583759931361	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1583759931361	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1583759931361	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1583759931361	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1583759931361	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1583759931362	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1583759931362	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1583759931362	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1583759931362	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1583759931362	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1583759931362	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1583759931362	Marionette	DEBUG	Resetting recommended pref extensions.webservice.discoverURL
+1583759931362	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1583759931362	Marionette	DEBUG	Resetting recommended pref network.http.speculative-parallel-limit
+1583759931362	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1583759931362	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1583759931363	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1583759931363	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1583759931363	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1583759931363	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1583759931363	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1583759931363	Marionette	INFO	Stopped listening on port 62905
+1583759931364	Marionette	DEBUG	Marionette stopped listening
+JavaScript error: https://www.maison-retraite-selection.fr/dist/js/vendors~block-0~block-10~block-12~block-18~block-6.09bb63c6.js, line 1: TypeError: s is undefined
+JavaScript error: https://www.maison-retraite-selection.fr/src/js/main.js, line 11054: TypeError: this.$content is null
+JavaScript error: https://www.maison-retraite-selection.fr/dist/js/vendors~block-0~block-10~block-12~block-18~block-6.09bb63c6.js, line 1: TypeError: s is undefined
+JavaScript warning: https://www.maison-retraite-selection.fr/src/script/vendor.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1583759934790	Marionette	TRACE	[17] Received DOM event DOMContentLoaded for https://www.maison-retraite-selection.fr/maison-de-retraite/ehpad/4738-le-cercle-des-aines-de-saint-germain.html&pc=1
+JavaScript error: https://www.maison-retraite-selection.fr/src/js/mdrs.js, line 83: TypeError: $(...).jScrollPane is not a function
+1583759938088	Marionette	TRACE	[17] Received DOM event pageshow for https://www.maison-retraite-selection.fr/maison-de-retraite/ehpad/4738-le-cercle-des-aines-de-saint-germain.html&pc=1
+1583759938094	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1583759942139	Marionette	DEBUG	Closed connection 0
+1583759942310	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1583759942310	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1583759942310	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1583759942310	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1583759942310	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1583759942310	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1583759942311	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1583759942311	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1583759942311	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1583759942311	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1583759942311	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1583759942311	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1583759942311	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1583759942311	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1583759942311	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1583759942312	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1583759942312	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1583759942312	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1583759942312	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1583759942312	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1583759942312	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1583759942313	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1583759942313	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1583759942313	Marionette	DEBUG	Resetting recommended pref extensions.webservice.discoverURL
+1583759942313	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1583759942313	Marionette	DEBUG	Resetting recommended pref network.http.speculative-parallel-limit
+1583759942313	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1583759942313	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1583759942313	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1583759942313	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1583759942313	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1583759942313	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1583759942313	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1583759942313	Marionette	INFO	Stopped listening on port 63833
+1583759942314	Marionette	DEBUG	Marionette stopped listening
