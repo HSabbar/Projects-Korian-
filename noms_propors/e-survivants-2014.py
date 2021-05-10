@@ -9,6 +9,7 @@ PATTERN_SUPP_HTML : Pattern = re.compile(r'<(.*?)>')
 PATTERN_ASH : Pattern = re.compile(r'\bash\b|\bagent de service hôtelier\b|\bagent de service hotelier\b')
 freq_ash = 0
 
+
 PATTERN_AIDE_SOIGNANT : Pattern = re.compile(r'\bas\b|\bas\.\b|\baide-soignant\b|\baide soignant\b')
 freq_as = 0
 
